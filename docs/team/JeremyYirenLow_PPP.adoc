@@ -1,6 +1,6 @@
 = Jeremy Low - Portfolio for *_PDF++_*
 :plus: &#43;
-:imagesDir: images
+:imagesDir: ../images
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -25,7 +25,7 @@ image::docs/images/Ui.png[width="600"]
 endif::[]
 
 ifndef::env-github[]
-image::images/Ui.png[width="600"]
+image::Ui.png[width="600"]
 endif::[]
 
 Note the following symbols and formatting used in this document:
